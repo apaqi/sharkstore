@@ -1,4 +1,5 @@
 # SHARKSTORE
+https://blog.csdn.net/zfy1355/article/details/83341799
 sharkstore是一个分布式的持久化K-V存储系统，存储层依赖rocksdb，数据副本之间通过raft协议进行复制<br>
 
 系统主要包括<br>
